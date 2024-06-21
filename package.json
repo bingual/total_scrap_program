@@ -1,0 +1,14 @@
+{
+  "name": "scrap-program",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "python scraper/main.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^34.2.7"
+  }
+}

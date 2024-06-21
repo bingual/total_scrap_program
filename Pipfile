@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiofiles = "*"
+aiohttp = "*"
+celery = "*"
+flet = "*"
+nest-asyncio = "*"
+opencv-python = "*"
+openpyxl = "*"
+pandas = "*"
+pillow = "*"
+playwright = "*"
+tqdm = "*"
+xlsxwriter = "*"
+
+[dev-packages]
+black = "*"
+pyinstaller = "*"
+
+[requires]
+python_version = "3.12"
