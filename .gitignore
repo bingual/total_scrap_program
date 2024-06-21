@@ -270,4 +270,6 @@ screenshot/
 *.png
 *.jpg
 *.jpeg
+Pipfile
+Pipfile.lock
 

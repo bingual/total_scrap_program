@@ -6,16 +6,13 @@ name = "pypi"
 [packages]
 aiofiles = "*"
 aiohttp = "*"
-celery = "*"
 flet = "*"
 nest-asyncio = "*"
 opencv-python = "*"
-openpyxl = "*"
 pandas = "*"
 pillow = "*"
 playwright = "*"
 tqdm = "*"
-xlsxwriter = "*"
 
 [dev-packages]
 black = "*"
